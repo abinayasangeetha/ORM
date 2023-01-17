@@ -48,6 +48,7 @@ admin.site.register(Employee,EmployeeAdmin)
 ## OUTPUT
 
 ![OUTPUT](./Out.png)
+![out](https://user-images.githubusercontent.com/119393675/212843029-593f3147-e89c-4330-a5cd-0f341f26ac36.png)
 
 ## RESULT
 
